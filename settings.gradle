@@ -1,0 +1,4 @@
+rootProject.name = 'javaefetivo3edicao'
+include 'capitulo02'
+include 'capitulo02:item01'
+include 'commons'
